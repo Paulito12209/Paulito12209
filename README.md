@@ -28,7 +28,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/paul-angeles-chaquire-654b34137/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4E16AQGYApAcpCQqAg/profile-displaybackgroundimage-shrink_350_1400/B4EZoP225HKgAY-/0/1761202634299?e=1764806400&v=beta&t=CZs-EB96vY8AHyNsG2F_AyjjEgh1rRKj4mQncA-GwLg" width="80" height="50" alt="linkedin logo"  />
+    <img src="https://media.licdn.com/dms/image/v2/D4E16AQGYApAcpCQqAg/profile-displaybackgroundimage-shrink_350_1400/B4EZoP225HKgAY-/0/1761202634299?e=1762992000&v=beta&t=REjJfQ4KiRvEkSPheHJeVIZYJIhdNPeKdl8oekxtmAQ" width="80" height="50" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/paulito12169/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="50" alt="instagram logo"  />
