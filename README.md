@@ -28,7 +28,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/paul-angeles-chaquire-654b34137/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="80" height="50" alt="linkedin logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="80" height="50" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/paulito12169/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="50" alt="instagram logo"  />
